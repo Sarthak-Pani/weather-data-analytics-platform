@@ -18,7 +18,7 @@ Python, MySQL, PySpark, Streamlit, Snowflake
 
 Execution Order:
 
-Run weather_warehouse.sql
+Run weather_analytics.sql
 
 Run etl.py
 
