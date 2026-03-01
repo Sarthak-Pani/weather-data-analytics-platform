@@ -12,11 +12,11 @@ This project demonstrates an end-to-end data engineering pipeline including:
 • Role-Based Access Control & Data Masking
 • Streamlit Dashboard
 
-Tech Stack
+Tech Stack:
 
 Python, MySQL, PySpark, Streamlit, Snowflake
 
-Execution Order
+Execution Order:
 
 Run weather_warehouse.sql
 
